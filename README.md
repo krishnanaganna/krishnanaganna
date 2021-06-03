@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishnanaganna
 - 👀 I’m interested in Automating BAU tasks!
-- 📫 Search for me in my linkedin
+- 📫 Search for me in linkedin
 
 <!---
 krishnanaganna/krishnanaganna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
